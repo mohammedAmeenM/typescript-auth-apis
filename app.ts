@@ -6,7 +6,7 @@ app.use(exp.json())
 
 app.use('/api/auth/',authRoute)
 
-console.log("Hey");
+
 
 export default app
 
